@@ -12,3 +12,14 @@ Tambien habra otro boton que servira para darse de alta abrieendo la ventana de 
 
 ## _Registro_
 
+Dispondra los siguientes campos: Nombre, Apellidos, Edad, Email, Contraseña, Telefono
+
+Tendra sus respectivas validaciones como por ejemplo el telefono debe contar con 9 numeros o que el gmail debe tener el "@" y el "."
+
+
+
+![Hnet-image](https://user-images.githubusercontent.com/46556874/92605886-953b1880-f2b2-11ea-9664-66df68abf24d.gif)
+
+
+## _Formulario_
+
